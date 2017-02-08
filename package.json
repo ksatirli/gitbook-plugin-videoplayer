@@ -1,28 +1,29 @@
 {
-  "name": "gitbook-plugin-videoplayer",
-  "description": "video.js integration made easy in GitBook",
-  "main": "index.js",
-  "version": "0.2.0",
-  "engines": {
-    "gitbook": ">2.x.x"
-  },
-  "homepage": "https://bitbucket.org/cultivatedops/gitbook-plugin-videoplayer",
-  "repository": {
-    "type": "git",
-    "url": "git+https://bitbucket.org/cultivatedops/gitbook-plugin-videoplayer.git"
-  },
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://jira.cultivatedops.com/"
-  },
-  "dependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "cultivatedops"
-    "gitbook",
-    "gitbook-plugin"
-  ],
-  "author": "Kerim Satirli <kerim@cultivatedops.com>"
+    "name": "gitbook-plugin-videoplayer",
+    "description": "video.js integration made easy in GitBook",
+    "main": "index.js",
+    "version": "0.2.0",
+    "engines": {
+        "gitbook": ">2.x.x"
+    },
+    "homepage": "https://bitbucket.org/cultivatedops/gitbook-plugin-videoplayer",
+    "repository": {
+        "type": "git",
+        "url": "git+https://bitbucket.org/cultivatedops/gitbook-plugin-videoplayer.git"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://jira.cultivatedops.com/"
+    },
+    "dependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cultivatedops",
+        "gitbook",
+        "gitbook-plugin",
+        "videojs"
+    ],
+    "author": "Kerim Satirli <kerim@cultivatedops.com>"
 }
