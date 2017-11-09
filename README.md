@@ -2,6 +2,14 @@
 
 > This repository is a [GitBook](https://gitbook.com/) Plugin for adding `video.js` support to your GitBook. Protection resources.
 
+## This project is no longer maintained
+
+The _GitBook Plugin: Video Player_ is no longer actively maintained and is only made available here for reference. The project itself is still capable of providing `video.js` functionality for GitBook.
+
+What follows is the original `README.md`:
+
+---
+
 ## Table of Contents
 
 - [Requirements](#requirements)
